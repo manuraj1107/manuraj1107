@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @manuraj1107
 - 👀 I’m Front-End Developer 
-- 🌱 I’m currently experimenting and learning into DeFi, DAOs and Dapp
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can connect with me
 - 
 
 <!---
